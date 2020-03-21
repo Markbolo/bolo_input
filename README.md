@@ -4,5 +4,3 @@
 ### 效果图
 ![message](https://github.com/Markbolo/bolo_input/blob/master/bolo_input.gif)
 
-![message](https://github.com/Markbolo/bolo_input/blob/master/input.png)
-
