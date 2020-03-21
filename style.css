@@ -1,0 +1,26 @@
+#id-input-text {
+    height:20px;
+    width:200px;
+}
+.display-box {
+    width: 200px;
+    height: 100px;
+}
+.blank-box {
+    border:1px solid grey;
+    width: 200px;
+    height: 20px;
+}
+.font-box {
+    border:1px solid grey;
+    width: 200px;
+    height: 30px;
+}
+#id-span-letter {
+    color:blue;
+    font-size:20px;
+}
+#id-span-font {
+    color:blue;
+    font-size:20px;
+}
